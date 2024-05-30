@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_text_to_speech_tutorial/pages/home_page.dart';
-import 'package:flutter_text_to_speech_tutorial/pages/pdf.dart';
 
 void main() {
   runApp(const MyApp());
